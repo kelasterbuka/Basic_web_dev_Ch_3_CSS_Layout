@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 2,
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 4
+}

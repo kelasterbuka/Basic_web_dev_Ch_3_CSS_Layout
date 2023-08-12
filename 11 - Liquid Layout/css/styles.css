@@ -1,0 +1,45 @@
+body{
+    width:90%;
+    margin: 0 auto;
+    font-family:Arial;
+}
+
+#content{
+    overflow:auto;
+}
+
+#nav, #feature, #footer{
+    background-color: #efefef;
+    padding:10px;
+    margin:1%;
+    text-align: center;
+}
+
+.column1, .column2, .column3 {
+    background-color: #efefef;
+    width:30%;
+    float:left;
+    margin:1%;
+    padding:0.66%;
+}
+
+.column3{
+    margin-right:0%;
+}
+
+#content h3{
+    text-align:center;
+}
+
+#content p{
+    margin: 10px;
+}
+
+#feature img{
+    width:30%;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+}
